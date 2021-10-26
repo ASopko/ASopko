@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ASopko
+- 👀 I’m interested in networking & coding.
+- 🌱 I’m currently learning AWS cloud & python.
+- 💞️ I’m looking to collaborate on anything someone is willing to teach.
+- 📫 bambooxtwitch@gmail.com
